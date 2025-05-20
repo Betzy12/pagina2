@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>pagina2</title>
+  
   <meta charset="utf-8"/>
 </head>
 <body>
