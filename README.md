@@ -5,7 +5,7 @@
 </head>
 <body>
   <h1>tabla</h1>
-  <p> <marquee>CENTRO DE ESTUDIOS DE BACHILLERATO CEB 5/11</marquee>
+  <p> 
 <table border="1">
 <caption>Mi Primera Tabla</caption>
 <tr>
@@ -24,5 +24,4 @@
 <td>Mexico</td>
 </tr>
 </table>
-</body>
-</html>
+
